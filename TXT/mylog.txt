@@ -2,3 +2,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 250 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 40 L05 Quiz related including studying
+ZCZC W00 75 L10 Assignment #00
+ZCZC W00 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W00 10 L41 TXT/mylog.txt related.
+ZCZC W00 120 L70 Studying for other courses.
+ZCZC W00 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 90 L81 Listening: Radio, Music, etc.
+ZCZC W00 90 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 120 L99 Other (Going to Church) 
