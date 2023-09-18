@@ -9,7 +9,6 @@ This website will help and guide you understanding Virtual Box usage.
 * [Linux vs GNU/Linux](https://www.youtube.com/watch?v=RNeKYjWx-s4) ---
 GNU/Linux short explanation.
 Will increase your understanding of the Linux kernel operating system.
-<br>
 ## Week 02
 * [Bash Scripting Tutorial](https://www.youtube.com/watch?v=tK9Oc6AEnR4) ---
 Understanding how to do Bash Scripting.
