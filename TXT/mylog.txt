@@ -38,7 +38,7 @@ ZCZC W03 10 L05 Quiz related including studying
 ZCZC W03 180 L13 Assignment #03
 ZCZC W03 210 L70 Studying for other courses.
 ZCZC W03 120 L81 Listening: Radio, Music, etc.
-ZCZC W02 90 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W03 90 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W03 10 L41 TXT/mylog.txt related.
 ZCZC W03 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 30 L64 Helping a friend (OS related problem)
