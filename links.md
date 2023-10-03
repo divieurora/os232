@@ -26,5 +26,15 @@ Indonesian-based language and easy to understand.
 * [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/) ---
 Type  of file allocation methods.
 Explaining contiguous allocation, linked list allocation, and indexed allocation.
+## Week 04 ☝️
+* [What is Virtual Memory?](https://www.youtube.com/watch?v=4e18yybPo1E) ---
+Understanding the definition of Virtual Memory and Physical Memory.
+Good explanation about MMU, pages, etc.
+* [Paging in Operating System](https://www.youtube.com/watch?v=LKYKp_ZzlvM) ---
+Basic implementations of paging in Operating System.
+There are some examples of how to calculate number of pages and logical address.
+* [How Operating System Manages Memory](https://public.support.unisys.com/aseries/docs/ClearPath-MCP-20.0/86000387-514/section-000023203.html) ---
+Basic explanations about Operating System Memory Management.
+Also explain about Linux system files.
 <br>
 <hr>
