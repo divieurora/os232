@@ -36,5 +36,18 @@ There are some examples of how to calculate number of pages and logical address.
 * [How Operating System Manages Memory](https://public.support.unisys.com/aseries/docs/ClearPath-MCP-20.0/86000387-514/section-000023203.html) ---
 Basic explanations about Operating System Memory Management.
 Also explain about Linux system files.
+## Week 05 😎
+* [A Deep Explanation of Thrashing in OS](https://datatrained.com/post/thrashing-in-os/#:~:text=to%20Prevent%20it%3F-,Thrashing%20in%20os%20is%20a%20phenomenon%20that%20occurs%20in%20computer,is%20not%20present%20in%20memory.) ---
+Explanation about thrashing phenomenon is OS.
+Provide deep and good description about thrashing.
+* [What is Demand Paging in OS](https://datatrained.com/post/demand-paging-in-os/#:~:text=Demand%20paging%20in%20os%20is%20a%20technique%20used%20in%20virtual,memory%20required%20by%20the%20system.) ---
+Good for understanding the definition of Demand Paging.
+Explains the basics of Demand Paging in OS clearly.
+* [Least Recently Used Page Replacement Algorithm](https://www.youtube.com/watch?v=dYIoWkCvd6A) ---
+Simple video to learn how the LRU algorithm works in simple terms.
+It's useful for learning about most optimal way in memory page replacements.
+* [Belady’s Anomaly in Page Replacement Algorithms](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/) ---
+This page breaks down the surprising behavior of Belady's Anomaly.
+It helps make sense of odd memory behaviors.
 <br>
 <hr>
