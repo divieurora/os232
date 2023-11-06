@@ -66,3 +66,13 @@ ZCZC W05 20 L64 Helping a friend (OS related problem)
 ZCZC W05 60 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W05 120 L81 Listening: Radio, Music, etc.
 ZCZC W05 120 L99 Other (Going to Church)
+ZCZC W06 30 L01 SCELE/Discord related
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 90 L16 Assignment #06
+ZCZC W06 120 L70 Studying for other courses.
+ZCZC W06 10 L41 TXT/mylog.txt related.
+ZCZC W06 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 90 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W06 90 L81 Listening: Radio, Music, etc.
+ZCZC W06 120 L99 Other (Going to Church)
