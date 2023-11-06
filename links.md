@@ -53,5 +53,16 @@ It's useful for learning about most optimal way in memory page replacements.
 * [Belady’s Anomaly in Page Replacement Algorithms](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/) ---
 This page breaks down the surprising behavior of Belady's Anomaly.
 It helps make sense of odd memory behaviors.
+
+## Week 06 ⚙️
+* [Scheduling Queues In Process Management](https://www.youtube.com/watch?v=iLC--q7O_KM) ---
+Help understanding types of scheduling in Operating Systems.
+Nice explanation about Ready and Wait Queues.
+* [Difference Between IPC model](https://www.youtube.com/watch?v=rQb948Ze46I) ---
+Message Passing vs Shared Memory Model of IPC.
+Complete and amazing explanation about the differences of Message Passing and Shared Memory.
+* [Memory Stack and Heap](https://www.baeldung.com/cs/memory-stack-vs-heap#:~:text=Stack%20memory%20is%20a%20sort,longer%20lifespan%20than%20stack%20memory.) ---
+What and Where Are the Memory Stack and Heap in Operating System.
+Simple but great explanation to help to understand.
 <br>
 <hr>
