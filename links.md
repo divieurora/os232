@@ -64,5 +64,16 @@ Complete and amazing explanation about the differences of Message Passing and Sh
 * [Memory Stack and Heap](https://www.baeldung.com/cs/memory-stack-vs-heap#:~:text=Stack%20memory%20is%20a%20sort,longer%20lifespan%20than%20stack%20memory.) ---
 What and Where Are the Memory Stack and Heap in Operating System.
 Simple but great explanation to help to understand.
+
+## Week 07 🔁
+* [Process Synchronization in OS](https://www.prepbytes.com/blog/operating-system/process-synchronization-in-os-definition-working-and-example/#:~:text=Process%20synchronization%20in%20OS%20is,without%20interfering%20with%20each%20other.) ---
+Very good and complete explanation about synchronization process in OS.
+There are relatable Frequently Asked Questions answers.
+* [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/) ---
+Help understanding the concept of critical section and why it’s important for synchronization.
+Provide pseudo-code visualization.
+* [Deadlock in Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY) ---
+Great simple video to help understand about deadlock.
+The examples was exactly to the point.
 <br>
 <hr>
