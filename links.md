@@ -75,5 +75,12 @@ Provide pseudo-code visualization.
 * [Deadlock in Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY) ---
 Great simple video to help understand about deadlock.
 The examples was exactly to the point.
+
+## Week 08 🫥
+* []() ---
+
+* [CPU Cores vs. Logical Processors & Threads](https://www.cgdirector.com/cpu-cores-vs-logical-processors-threads/) ---
+
+* []() ---
 <br>
 <hr>
