@@ -77,10 +77,14 @@ Great simple video to help understand about deadlock.
 The examples was exactly to the point.
 
 ## Week 08 🫥
-* []() ---
-
+* [Process Scheduling Algorithms](https://www.youtube.com/watch?v=bqiLYxVCXEI) ---
+Good explanation about FCFS, SJF, RR, and Priority in one video.
+Provide examples for each algorithms
 * [CPU Cores vs. Logical Processors & Threads](https://www.cgdirector.com/cpu-cores-vs-logical-processors-threads/) ---
-
-* []() ---
+Explaining about what makes each of these components unique.
+Help in understanding what are they used for.
+* [Kernotex Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+Provide complete example and explanation about how to build lfs.
+Very helpful step-by-step guide through all the process.
 <br>
 <hr>
