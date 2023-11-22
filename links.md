@@ -86,5 +86,17 @@ Help in understanding what are they used for.
 * [Kernotex Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
 Provide complete example and explanation about how to build lfs.
 Very helpful step-by-step guide through all the process.
+
+## Week 09 📦
+* [Kernotex Ch. 6](https://youtu.be/D_N1kQPsQEk?si=tgqj9-I_ggHOAHk4) ---
+* [Kernotex Ch. 7](https://youtu.be/y8uAMEK0FVc?si=fkAlas8OOnVrrZsd) ---
+A very helpful step-by-step explanation to Cross-Compiling Temporary Tools.
+Give visualization about what to do in building LFS Ch. 6 & 7.
+* [SCAN vs C-SCAN](https://www.geeksforgeeks.org/difference-between-scan-and-cscan-disk-scheduling-algorithms/) ---
+Excellent explanation about SCAN and C-SCAN.
+Provide the difference between SCAN and C-SCAN disk scheduling algorithm table.
+* [Swap Space](https://phoenixnap.com/kb/swap-space) ---
+What is swap space & how it works in Linux Operating System.
+Helpful page to know the benefits and challenges in using swap space.
 <br>
 <hr>
