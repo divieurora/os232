@@ -88,8 +88,7 @@ Provide complete example and explanation about how to build lfs.
 Very helpful step-by-step guide through all the process.
 
 ## Week 09 📦
-* [Kernotex Ch. 6](https://youtu.be/D_N1kQPsQEk?si=tgqj9-I_ggHOAHk4) ---
-* [Kernotex Ch. 7](https://youtu.be/y8uAMEK0FVc?si=fkAlas8OOnVrrZsd) ---
+* [Kernotex Ch. 6](https://youtu.be/D_N1kQPsQEk?si=tgqj9-I_ggHOAHk4) & [Kernotex Ch. 7](https://youtu.be/y8uAMEK0FVc?si=fkAlas8OOnVrrZsd) ---
 A very helpful step-by-step explanation to Cross-Compiling Temporary Tools.
 Give visualization about what to do in building LFS Ch. 6 & 7.
 * [SCAN vs C-SCAN](https://www.geeksforgeeks.org/difference-between-scan-and-cscan-disk-scheduling-algorithms/) ---
