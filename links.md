@@ -79,7 +79,7 @@ The examples was exactly to the point.
 ## Week 08 🫥
 * [Process Scheduling Algorithms](https://www.youtube.com/watch?v=bqiLYxVCXEI) ---
 Good explanation about FCFS, SJF, RR, and Priority in one video.
-Provide examples for each algorithms
+Provide examples for each algorithms.
 * [CPU Cores vs. Logical Processors & Threads](https://www.cgdirector.com/cpu-cores-vs-logical-processors-threads/) ---
 Explaining about what makes each of these components unique.
 Help in understanding what are they used for.
@@ -97,5 +97,16 @@ Provide the difference between SCAN and C-SCAN disk scheduling algorithm table.
 * [Swap Space](https://phoenixnap.com/kb/swap-space) ---
 What is swap space & how it works in Linux Operating System.
 Helpful page to know the benefits and challenges in using swap space.
+
+## Week 10 ⌨️
+* [I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm) ---
+Full and simple explanation about I/O Hardware in Operating System.
+Provide diagram examples to help your understanding.
+* [Direct Memory Access (DMA) Controller](https://www.geeksforgeeks.org/direct-memory-access-dma-controller-in-computer-architecture/) ---
+What is DMA Controller and the working of DMA Controller.
+It's useful for learning about DMA Transfer in I/O System.
+* [Kernotex Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A very helpful step-by-step explanation to Installing Basic System Software.
+Give visualization about what to do in building LFS Ch. 8.
 <br>
 <hr>
