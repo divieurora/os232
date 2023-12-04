@@ -23,3 +23,6 @@ ZCZC W08 Samuelwidjaja
 ZCZC W09 vinkakniv
 ZCZC W09 Frmeta
 ZCZC W09 MahogaHeryasa
+ZCZC W10 vinkakniv
+ZCZC W10 evelynphs
+ZCZC W10 Metry630
